@@ -1,0 +1,251 @@
+[2011] Which of the following options is incorrect for a relational table storing student registration number, UID, bank account number, name, and hostel room attributes?
+
+[2021] Which functional dependencies can be inferred from the dependencies P determines Q and R, and RS determines T?
+
+[2021] Which decomposition scheme correctly decomposes a relation with functional dependencies involving attributes P, Q, S, T, X, Y, Z, and W?
+
+[2020] Which statement is true for a relational table that is in third normal form but not in Boyce-Codd normal form?
+
+[2019] Which of the following statements are correct for a decomposition of a relation into schemas PR and QRS with respect to BCNF, dependency preservation, and lossless join?
+
+[2017] Which irreducible equivalent set of functional dependencies corresponds to a given set of functional dependencies on attributes V, W, X, Y, and Z?
+
+[2016] Which of the following is not a superkey for a relational schema with attributes V, W, X, Y, and Z and primary key VY?
+
+[2015] Which of the following functional dependencies is a trivial functional dependency in the closure of a given set of dependencies?
+
+[2014] Which of the following statements is correct regarding normal forms and minimal cover of functional dependencies?
+
+[2014] What is the candidate key for a relation with attributes E, F, G, H, I, J, K, L, M, and N and given functional dependencies?
+
+[2014] What is a prime attribute in the context of a relational database schema?
+
+[2013] What is the highest normal form satisfied by a relation with atomic attributes and a given set of functional dependencies?
+
+[2013] How many candidate keys does a relation with attributes A, B, C, D, E, F, G, and H have given a set of functional dependencies?
+
+[2012] Which statements are true for a decomposition of a relational schema into two relations based on functional dependencies involving name, city, and owner?
+
+[2025] Which statements are true for the given relational schemas and their functional dependencies involving attributes A, B, C, D, and E?
+
+[2025] Which of the following statements about functional dependency notation in relational databases are true?
+
+[2024] Which of the following statements about a relation in first normal form are true?
+
+[2023] Which term refers to the degree or arity of a relation in relational database systems?
+
+[2022] How many superkeys exist for a relation with attributes A, B, C, D, and E given functional dependencies AB determines C, BC determines D, and C determines E?
+
+[2022] Which statement is true in the context of the relational data model?
+
+[2010] Which tuple identifiers are returned by an SQL query involving selection on class attribute and an EXISTS subquery on passenger age?
+
+[2010] What is the maximum possible number of tuples in the natural join of two relations given their functional dependencies and tuple counts?
+
+[2011] Which indexing strategy performs better for selection queries involving equality and range conditions on a single attribute?
+
+[2011] What is the result of an SQL query that repeatedly inserts records using computed attribute values and then performs a selection?
+
+[2011] What is the output of an SQL query involving a natural join on a table containing borrower, bank manager, and loan amount information?
+
+[2012] Which property is always true when a foreign key in one relation references a primary key in another relation under referential integrity constraints?
+
+[2012] How many tuples are returned by an SQL query involving a comparison with ALL and a nested subquery?
+
+[2012] Which statements about the HAVING clause and GROUP BY clause in SQL are correct?
+
+[2013] Which SQL, relational algebra, and relational calculus queries correctly retrieve student names satisfying a given condition?
+
+[2014] Which relational algebra query retrieves employee identifiers based on age comparison with their dependents?
+
+[2014] Under what condition does a nested loop join between two relations result in fewer disk block accesses?
+
+[2014] What does an SQL query using NOT EXISTS return when applied to employee and customer relations with rating constraints?
+
+[2014] Which SQL query is equivalent to a given nested query involving an IN predicate?
+
+[2014] Which employees are returned by an SQL query that selects the most recent hires per department in a specific location?
+
+[2014] Which statement regarding foreign keys and SQL table definitions is correct?
+
+[2014] What is the optimized form of a relational algebra expression involving selection and projection operations?
+
+[2015] Which SQL clause ensures retrieval of theaters having the maximum seating capacity?
+
+[2017] Which tuple relational calculus queries are safe in the presence of NULL values?
+
+[2017] What are the results of INNER JOIN, LEFT OUTER JOIN, and RIGHT OUTER JOIN queries on book and stock relations?
+
+[2021] What does an SQL query involving grouping, aggregation, and a correlated subquery compute for each department?
+
+[2021] What is the estimated number of tuples produced by a selection operation given attribute value distributions?
+
+[2021] Which statement about foreign keys in the relational data model is correct?
+
+[2025] Which tuple relational calculus query retrieves the names of players belonging to a specific team?
+
+[2025] Which SQL queries correctly retrieve student names enrolled in a given course?
+
+[2012] What are the conditions to detect a full queue and an empty queue in a circular queue implemented using an array?
+
+[2013] Which statement is true about a stack that supports a reverse operation in addition to push and pop?
+
+[2016] What is the traversal order obtained by visiting the root, then the right subtree, followed by the left subtree of a binary tree?
+
+[2016] Which statement about enqueue and dequeue operations in an array-based queue implementation is correct?
+
+[2016] What is the maximum possible number of iterations of a loop that processes elements using both a queue and a stack?
+
+[2017] Which conditions ensure constant time insertion and deletion in a circular queue implemented using a singly linked list?
+
+[2021] What is the result of a sequence of push and pop operations on a stack and enqueue and dequeue operations on a queue?
+
+[2020] What is the worst case time complexity of inserting elements into a sorted linked list?
+
+[2021] What is the worst case time complexity of finding the maximum element in a binary min-heap?
+
+[2015] Which inorder traversal sequences correspond to valid binary search trees?
+
+[2015] What are the minimum and maximum possible numbers of nodes in a binary tree of a given height?
+
+[2015] How many nodes in a binary tree have exactly two children given the number of leaf nodes?
+
+[2015] What is the structure of a max heap after inserting a new element?
+
+[2016] What is the time complexity of deleting an arbitrary element from a binary heap and restoring the heap property?
+
+[2016] How many ways can elements be inserted into an empty binary search tree to produce a tree of maximum height?
+
+[2016] What is the maximum possible depth at which a given element can appear in a complete binary min-heap?
+
+[2017] What is the postorder traversal of a binary search tree given its preorder traversal?
+
+[2017] What are the minimum and maximum possible heights of a binary search tree with a given number of nodes?
+
+[2018] What is the height of a binary tree given its inorder and postorder traversals?
+
+[2020] Which postorder traversal corresponds to a given preorder traversal of a binary search tree?
+
+[2021] Which statements about articulation points in a graph and DFS trees are correct?
+
+[2021] What is the time complexity of selecting an element smaller than the maximum element in a binary search tree?
+
+[2021] What is the difference between the first few elements obtained using BFS and DFS on a complete binary tree?
+
+[2002] Which CPU scheduling algorithms can operate in a non-preemptive mode?
+
+[2025] Which CPU scheduling policy correctly determines the average turnaround time when processes arrive at different times and shortest remaining time first scheduling is used?
+
+[2025] How does non-preemptive priority scheduling behave when multiple processors use different priority orders?
+
+[2024] Which process state transitions are not possible in an operating system?
+
+[2024] How do preemptive shortest remaining time first and non-preemptive shortest job first scheduling compare in terms of average waiting time?
+
+[2024] Which combinations of shared variable values are possible after concurrent execution of atomic thread instructions?
+
+[2024] Which system states must be saved during a context switch between two threads of the same process?
+
+[2023] Which CPU scheduling algorithms can potentially cause starvation?
+
+[2023] In how many ways can jobs be assigned to computers under constraints on job difficulty and processor speed?
+
+[2021] Which statements are correct regarding CPU scheduling policies?
+
+[2021] What is the minimum achievable average waiting time under an optimal non-preemptive scheduling policy?
+
+[2016] Which CPU scheduling algorithm minimizes average waiting time when all processes arrive simultaneously?
+
+[2016] What is the maximum number of processes that can be in the ready state in a system with multiple CPUs?
+
+[2015] Which statement about shortest job first scheduling is false with respect to waiting time and starvation?
+
+[2015] When tasks with periodic arrivals are scheduled using rate monotonic scheduling, when does a lower-priority task complete its first execution?
+
+[2014] Which scheduling policy that increases priority based on waiting time ensures fairness among processes?
+
+[2013] Which system transitions incur user-to-kernel mode switches versus process context switches?
+
+[2011] Why is a thread considered a lightweight process in operating systems?
+
+[2011] Which statements about preemptive scheduling, starvation, and round-robin scheduling are correct?
+
+[2010] Which conditions on a resource allocation graph indicate the presence or absence of deadlock?
+
+[2025] Which statements are true regarding necessary conditions for deadlock?
+
+[2022] What is the maximum number of instances a process can request to always avoid deadlock in a shared resource system?
+
+[2018] What is the minimum number of threads and locks required for a deadlock to occur?
+
+[2017] Which resource ordering policies can be used to prevent deadlock?
+
+[2023] Which system events guarantee a transition from user mode to kernel mode?
+
+[2023] What behaviors are possible when multiple threads execute semaphore-based synchronization code concurrently?
+
+[2021] What synchronization property is achieved by a barrier implemented using semaphores?
+
+[2020] Which system condition guarantees that only specific processes can complete execution in a deadlock-prone system?
+
+[2015] How many processes competing for limited identical resources can lead to deadlock?
+
+[2013] What is the maximum possible value of a shared variable updated concurrently under semaphore control?
+
+[2022] What is the relative cost of inserting a block in contiguous and linked file allocation schemes?
+
+[2019] What determines the maximum file size supported by an inode-based file system?
+
+[2014] How does file allocation table overhead affect the maximum file size supported by a disk?
+
+[2014] Which OSI protocol layer or sub-layer is incorrectly matched with its functionality?
+
+[2014] How does bit-stuffing based framing recover the original input bit-string from a stuffed output?
+
+[2015] How does stop-and-wait protocol determine minimum frame size to achieve a target link utilization?
+
+[2015] How is the minimum sequence number field size determined for a Go-Back-N sliding window protocol?
+
+[2021] How is the minimum sender window size computed to achieve a desired link utilization in a sliding window protocol?
+
+[2021] How are CRC check bits generated using a given generator polynomial?
+
+[2023] In which stop-and-wait scenario is link utilization minimized?
+
+[2012] How do transmission and propagation delays contribute to total end-to-end delay in a packet-switched network?
+
+[2013] What determines the maximum cable length in an Ethernet LAN given frame size and transmission rate?
+
+[2016] Which network protocol is not used for resolving one form of address to another?
+
+[2016] Which application-layer protocols are stateful?
+
+[2016] Which statement about Ethernet LAN operation is correct?
+
+[2016] Which properties of the IEEE 802.11 MAC protocol are correct?
+
+[2016] How is the minimum Ethernet frame size determined in a CSMA/CD network?
+
+[2016] How does stop-and-wait ARQ affect sender throughput under asymmetric data and acknowledgment rates?
+
+[2016] How is the minimum sequence number size determined for achieving full utilization in selective repeat ARQ?
+
+[2017] How is stop-and-wait transmission efficiency affected by propagation delay and frame overhead?
+
+[2017] How are CRC check bits generated for a given message and generator polynomial?
+
+[2017] How are minimum Hamming distance and error correction capability related in a block code?
+
+[2018] How does carrier sensing distance affect collision avoidance in a shared broadcast medium?
+
+[2019] How is the minimum number of Ethernet switches determined to connect a given number of machines?
+
+[2019] How does a host resolve a MAC address for another host in the same IP subnet?
+
+[2021] How is throughput calculated in a pure ALOHA protocol under Poisson traffic assumptions?
+
+[2024] How do IP and MAC destination addresses change when a packet traverses routers and switches?
+
+[2024] How is minimum Ethernet frame size calculated for collision detection?
+
+[2025] How does channel utilization depend on frame size, propagation delay, and transmission rate in stop-and-wait protocol?
